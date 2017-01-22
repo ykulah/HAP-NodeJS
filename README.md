@@ -1,10 +1,3 @@
-HAP-NodeJS-Dockerized
-==========
-
-- Install docker 
-- Build image with Dockerfile
-- Run the container
-
 HAP-NodeJS
 ==========
 
